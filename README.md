@@ -1,8 +1,8 @@
-# Css-UTN-MDS
+# 🌐 Css-UTN-MDS 🎨
 
 Este proyecto es un Trabajo Práctico que consiste en la creación de una página web utilizando **HTML** y **CSS**. La página está diseñada para ser responsiva y adaptarse tanto a dispositivos móviles como a pantallas de escritorio.
 
-## Descripción de la Página
+## 📄 Descripción de la Página
 
 La página incluye las siguientes secciones:
 
@@ -20,7 +20,7 @@ La página incluye las siguientes secciones:
 3. **Pie de Página (Footer)**:
    - Incluye un texto con los derechos de autor.
 
-## Tecnologías Utilizadas
+## 🛠️ Tecnologías Utilizadas
 
 - **HTML5**: Para la estructura de la página.
 - **CSS3**: Para los estilos, utilizando:
@@ -28,7 +28,7 @@ La página incluye las siguientes secciones:
   - Flexbox y Grid para la disposición de elementos.
   - Media Queries para la responsividad.
 
-## Características Principales
+## ✨ Características Principales
 
 - **Diseño Responsivo**: Adaptable a dispositivos móviles y pantallas grandes.
 - **Estilos Personalizados**:
@@ -37,22 +37,22 @@ La página incluye las siguientes secciones:
   - Tarjetas con `box-shadow` y `border-radius`.
 - **Iconos**: Uso de Google Fonts (Material Symbols) para el ícono de menú.
 
-## Ejemplo Visual
+## 🖼️ Ejemplo Visual
 
-### Vista en Escritorio
+### 💻 Vista en Escritorio
 
 ![Vista Escritorio](./FullCss.png)
 
-### Vista en Móvil
+### 📱 Vista en Móvil
 
 ![Vista Móvil](./ResponsiveCss.png)
 
-## Instrucciones de Uso
+## 📋 Instrucciones de Uso
 
 1. Clona este repositorio.
 2. Abre el archivo `index.html` en tu navegador para visualizar la página.
 3. Modifica los archivos según tus necesidades para personalizar el diseño.
 
-## Créditos
+## 👥 Créditos
 
-Trabajo realizado como parte del curso de **CSS - UTN MDS**.# Css-UTN-MDS
+Trabajo realizado como parte del curso de **CSS - UTN MDS**.
